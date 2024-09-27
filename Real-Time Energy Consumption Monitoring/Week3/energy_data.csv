@@ -1,0 +1,7 @@
+user_id,device_id,reading_time,energy_consumed,device_type
+101,abc123,2023-09-01 08:15:00,15.2,smart_meter
+102,def456,2023-09-01 09:30:00,20.5,smart_meter
+101,abc123,2023-09-02 08:10:00,14.8,smart_meter
+103,ghi789,2023-09-02 07:50:00,18.3,thermostat
+104,jkl012,2023-09-03 10:00:00,22.0,solar_panel
+102,def456,2023-09-03 11:30:00,19.6,smart_meter
